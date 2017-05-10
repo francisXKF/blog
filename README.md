@@ -1,2 +1,2 @@
-# francisXu.github.io
+# francisXu
 francisBlog
