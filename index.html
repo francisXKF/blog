@@ -5,5 +5,9 @@
   <head>
   <body>
     <h1>This is a index</h1>
+    <div>
+       {% for post in site.posts  %}
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </div>
   </body>
 </html>
