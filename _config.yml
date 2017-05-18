@@ -5,7 +5,8 @@ email: xkf1273@gmail.com
 author: Francis
 github: https://github.com/francisXKF/
 permalink: /:year/:month/:day/:title/
-
+site: https://francisxkf.github.io/
+baseurl: "/blog"
 # Build settings
 #markdown: kramdown
 
