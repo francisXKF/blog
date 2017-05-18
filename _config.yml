@@ -4,16 +4,7 @@ name: Francis
 email: xkf1273@gmail.com
 author: Francis
 github: https://github.com/francisXKF/
-description: Actually, less is more!
-
-#permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
-paginate: 10
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
-github_username: francisXKF
-highlighter: Pygments
 
 # Build settings
 #markdown: kramdown
